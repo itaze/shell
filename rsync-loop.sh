@@ -8,7 +8,7 @@ do
         echo "Sincronia terminada com sucesso!"
         exit
     else
-        echo "Falha na sincroniza. Tentando..."
+        echo "Falha na sincronia. Tentando..."
         sleep 60
     fi
 done
